@@ -1,5 +1,7 @@
 # To_Do_App
 
+a normal to do app
+
 ## What I Learned
 - using Room Database
 - using recycler view
